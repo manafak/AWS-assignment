@@ -40,5 +40,6 @@ I created and configured a CloudFront distribution using the static S3 end-point
 
 My website can be accessed through the distribution domain name assignes to my cloudfront distribution
 
+<img width="1680" alt="Screenshot 2024-05-10 at 14 52 09" src="https://github.com/manafak/AWS-assignment/assets/149635098/c018e655-8e84-464f-9a79-0bd464e41349">
 
 
