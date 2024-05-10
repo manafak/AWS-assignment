@@ -19,3 +19,8 @@ Select Enable option for Static website hosting. Select Host a static website.
 Enter the Index document file name (index.html) that will serve as the home page for your static website.
 
 Add a Bucket Policy
+
+<img width="1680" alt="Screenshot 2024-05-10 at 11 35 03" src="https://github.com/manafak/AWS-assignment/assets/149635098/3e28f4b4-cda3-4fca-b3e8-8eaedaeba125">
+
+Save it and find the URL under Bucket website endpoint.
+
