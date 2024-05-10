@@ -8,4 +8,14 @@
 
 <img width="1680" alt="Screenshot 2024-05-10 at 11 34 39" src="https://github.com/manafak/AWS-assignment/assets/149635098/99f45708-7183-45ae-b1e6-d6e487919c12">
 
-Upload Website files to S3 Bucket
+Upload Ststic Website files to S3 Bucket
+
+<img width="1680" alt="Screenshot 2024-05-10 at 11 34 48" src="https://github.com/manafak/AWS-assignment/assets/149635098/e60cc180-70b4-4632-9707-3fc6f172aad9">
+
+
+Next, we enable Static Website Hosting on S3 bucket,from the Properties tab we look for Static website hosting section and click on the Edit button.
+
+Select Enable option for Static website hosting. Select Host a static website.
+Enter the Index document file name (index.html) that will serve as the home page for your static website.
+
+Add a Bucket Policy
