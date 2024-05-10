@@ -34,3 +34,11 @@ I created and configured a CloudFront distribution using the static S3 end-point
 
 <img width="1680" alt="Screenshot 2024-05-10 at 11 58 25" src="https://github.com/manafak/AWS-assignment/assets/149635098/efc982e5-a91a-42bb-84f2-7d8a2f7ca02c">
 
+<img width="1680" alt="Screenshot 2024-05-10 at 11 59 40" src="https://github.com/manafak/AWS-assignment/assets/149635098/9c7257aa-22f0-44fe-b1ea-60fc6481f540">
+
+<img width="1680" alt="Screenshot 2024-05-10 at 12 09 31" src="https://github.com/manafak/AWS-assignment/assets/149635098/86af346e-bb52-42c5-940a-a39156c9c66f">
+
+My website can be accessed through the distribution domain name assignes to my cloudfront distribution
+
+
+
