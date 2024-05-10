@@ -26,3 +26,8 @@ Save it and find the URL under Bucket website endpoint.
 
 <img width="1680" alt="Screenshot 2024-05-10 at 11 35 14" src="https://github.com/manafak/AWS-assignment/assets/149635098/43fc2d2d-5f82-4d37-b235-a45a53788b28">
 
+<img width="1680" alt="Screenshot 2024-05-10 at 11 35 27" src="https://github.com/manafak/AWS-assignment/assets/149635098/99d1dbb9-dc74-464c-be74-ef9726976d85">
+
+Configuring the CloudFront Distribution:
+
+I created and configured a CloudFront distribution using the static S3 end-point URL
